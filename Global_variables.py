@@ -8,3 +8,4 @@ x = 'awesome'
 def myfuc():
     print("python is" + x)
 myfuc()
+
