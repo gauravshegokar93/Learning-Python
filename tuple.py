@@ -13,3 +13,6 @@ print(thistuple)
 
 thistuple = ("apple","bannan","cherry")
 print(len(thistuple))
+
+thistuple = ("hi")
+print(len(thistuple))
